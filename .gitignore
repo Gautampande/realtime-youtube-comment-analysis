@@ -1,0 +1,76 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Streamlit cache and logs
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/*.json
+.streamlit/*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (optional - uncomment if large or sensitive)
+# *.csv
+# *.json
+# *.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and PyCharm settings
+.vscode/
+.idea/
+
+# Python environment files
+*.env
+.env.*
+
+# Models / Checkpoints (optional)
+*.pt
+*.pth
+*.onnx
+*.bin
+
+# Pip metadata
+pip-log.txt
+
+# pytest
+.cache/
+.pytest_cache/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+.env.*
+
+# SSL certificates and keys
+*.pem
+*.key
+*.cert
+
+*.iml
