@@ -153,7 +153,7 @@ Then open your browser at [http://localhost:8501](http://localhost:8501)
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
@@ -163,3 +163,13 @@ This project is licensed under the MIT License.
 * Azure Cognitive Services
 * Aiven Kafka
 * Google YouTube Data API
+
+---
+
+## 👨‍💻 Author
+
+**Gautam Pande**  
+🔗 [github.com/Gautampande](https://github.com/Gautampande)
+
+---
+
