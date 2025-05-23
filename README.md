@@ -104,6 +104,11 @@ Here’s a preview of the interactive Streamlit dashboard:
 
 ![Dashboard - Bert](images/dashboard_azure.png)  
 
+![Dashboard - TextBlob-livestream video](images/dashboard_textblob_live.png)  
+
+![Dashboard - Bert-livestream video](images/dashboard_bert_live.png)  
+
+![Dashboard - Bert-livestream video](images/dashboard_azure_live.png)  
 
 
 ---
