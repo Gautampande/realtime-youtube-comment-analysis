@@ -90,6 +90,8 @@ matplotlib
    * Counted and visualized in real-time
 4. Dashboard updates sentiment distribution and comment word cloud every few seconds.
 
+![System Block Diagram](images/block_diagram.png)  
+*System architecture showing sentiment engine, Kafka flow, and dashboard integration*
 ---
 
 ## 📸 Dashboard UI
