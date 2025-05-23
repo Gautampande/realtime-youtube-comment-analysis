@@ -96,19 +96,32 @@ matplotlib
 
 ## 📸 Dashboard UI
 
+
 Here’s a preview of the interactive Streamlit dashboard:
 
-![Dashboard - TextBlob](images/dashboard_textblob.png)  
 
-![Dashboard - Bert](images/dashboard_bert.png)  
+### **Dashboard – TextBlob**
+![Dashboard - TextBlob](images/dashboard_textblob.png)
 
-![Dashboard - Bert](images/dashboard_azure.png)  
 
-![Dashboard - TextBlob-livestream video](images/dashboard_textblob_live.png)  
+### **Dashboard – BERT**
+![Dashboard - BERT](images/dashboard_bert.png)
 
-![Dashboard - Bert-livestream video](images/dashboard_bert_live.png)  
 
-![Dashboard - Bert-livestream video](images/dashboard_azure_live.png)  
+### **Dashboard – Azure**
+![Dashboard - Azure](images/dashboard_azure.png)
+
+
+### **Dashboard – TextBlob (Live-Stream Video)**
+![Dashboard - TextBlob (Live Video)](images/dashboard_textblob_live.png)
+
+
+### **Dashboard – BERT (Live-Stream Video)**
+![Dashboard - BERT (Live Video)](images/dashboard_bert_live.png)
+
+
+### **Dashboard – Azure (Live-Stream Video)**
+![Dashboard - Azure (Live Video)](images/dashboard_azure_live.png)
 
 
 ---
